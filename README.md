@@ -22,5 +22,5 @@ flake8
 
 Tópicos a serem abordados:
  1. Git
- 2. Virtualenv
+ 2. Virtualenvdist 
  3. Pip
