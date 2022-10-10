@@ -28,6 +28,6 @@ jobs:
           pytest --cov=libpythonpro
       - name: Relatório Coverage
         env:
-          CODECOV_TOKEN: ${{ secrets.CODECOV_TOKEN }}
+          CODECOV_TOKEN: ${{c6aa616d-2a0f-4884-9e60-e8e110e7835f}}
         run: |
           codecov
